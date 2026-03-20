@@ -1,2 +1,3 @@
-# rapid-fintech-app-ukjk
-A financial technology application for modern development workflows
+# Rapid Fintech App Ukjk
+
+A financial technology application for modern development workflows.
